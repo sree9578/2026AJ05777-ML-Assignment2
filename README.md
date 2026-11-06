@@ -95,3 +95,9 @@ Observations:
 - Option to download the predictions
 
 The app only loads the saved models from the model folder. It does not retrain on the uploaded data.
+
+## BITS Virtual Lab Execution
+
+Screenshot of train_models.py running on BITS Virtual Lab:
+
+![BITS Lab execution](screenshots/bits_lab_execution.png)
