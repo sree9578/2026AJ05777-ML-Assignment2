@@ -20,7 +20,7 @@ The features are computed for the cell nuclei in the image. There are 10 base me
 
 ## c. GitHub Repository Link
 
-<PASTE GITHUB REPO LINK HERE>
+https://github.com/sree9578/2026AJ05777-ML-Assignment2
 
 Repository structure:
 
