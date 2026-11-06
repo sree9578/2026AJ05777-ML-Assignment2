@@ -117,7 +117,7 @@ def main():
     results, best_params = {}, {}
 
     for name, (pipe, grid) in build_candidates().items():
-        search = GridSearchCV(pipe, grid, scoring="f1", cv=cv, n_jobs=-1)
+        search = GridSearchCV(pipe, grid, scoring="f1", cv=cv)
         search.fit(X_train, y_train)
         best = search.best_estimator_
         joblib.dump(best, os.path.join(MODEL_DIR, file_name(name)))
