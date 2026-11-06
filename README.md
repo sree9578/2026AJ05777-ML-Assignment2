@@ -68,6 +68,7 @@ Comparison table (on test data, 114 rows):
 | Support Vector Machine | 0.9825 | 0.9960 | 1.0000 | 0.9524 | 0.9756 | 0.9626 |
 
 Best parameters found:
+
 - Logistic Regression: C = 1
 - Decision Tree: criterion = entropy, max_depth = 5, min_samples_leaf = 5
 - KNN: n_neighbors = 9, weights = uniform
