@@ -1,6 +1,6 @@
 # ML Assignment 2: Breast Cancer Classification
 
-Streamlit App Link: <PASTE STREAMLIT APP LINK HERE>
+Streamlit App Link: https://2026aj05777-ml-assignment2-kgyadk7n82vr3rfqpmvja4.streamlit.app/
 
 ## a. Problem Statement
 
